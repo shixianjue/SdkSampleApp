@@ -1,0 +1,52 @@
+<resources>
+    <!-- Application -->
+    <string name="app_name">宇宙行视频终端</string>
+    <string name="productName">视频终端</string>
+    <string name="productVersion">1.0</string>
+    <string name="buildNumber">1</string>
+    <string name="vendorName">Avaya</string>
+
+    <!-- Layouts -->
+    <!-- Start fragment -->
+    <string name="settings_item">设置</string>
+    <string name="calls_item">呼叫服务</string>
+    <string name="contacts_item">交互服务</string>
+
+    <!-- Settings fragment-->
+    <string name="call_service">呼叫服务</string>
+
+    <!-- Settings call service fragment-->
+    <string name="server_address">地址</string>
+    <string name="server_port">端口</string>
+    <string name="server_domain">域</string>
+    <string name="server_tls">安全连接</string>
+    <string name="user_extension">分机号</string>
+    <string name="user_password">密码</string>
+    <string name="status">状态:</string>
+    <string name="logged_in">登录</string>
+    <string name="logged_off">登出</string>
+    <string name="apply">应用</string>
+
+    <!-- Call init fragment-->
+    <string name="number_to_call">被叫号码</string>
+    <string name="make_audio_call">语音呼叫</string>
+    <string name="make_video_call">视频呼叫</string>
+    <string name="send_all_calls">发送所有呼叫</string>
+
+    <!-- Call active fragment-->
+    <string name="active_call">呼叫中</string>
+    <string name="call_duration">持续时间: </string>
+    <string name="call_state">呼叫状态: </string>
+    <string name="participants">参与方:</string>
+    <string name="end_call">结束呼叫</string>
+    <string name="send_digits">DTMF:</string>
+    <string name="ringing">拨号中</string>
+    <string name="established">接通</string>
+    <string name="ended">结束</string>
+
+    <!-- Incoming call dialog-->
+    <string name="ignore">挂断</string>
+    <string name="accept">接受</string>
+    <string name="incoming_call">振铃</string>
+    <string name="ok">确认</string>
+</resources>
